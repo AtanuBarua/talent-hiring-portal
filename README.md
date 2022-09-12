@@ -6,6 +6,8 @@ cp .env.example .env
 
 php artisan key:generate
 
+you will find the sql file in the database folder
+
 php artisan serve
 
 admin login:
